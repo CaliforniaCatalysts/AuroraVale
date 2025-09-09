@@ -35,9 +35,9 @@ void loop() {
 
   // Control spray head and LED
   if (M106_Input_Voltage > 3) {
-    SprayHead.write(A_OFF);   // Spray OFF
+    SprayHead.write(A_ON);   // Spray ON
   } else {
-    SprayHead.write(A_ON);     // Spray ON
+    SprayHead.write(A_OFF);     // Spray OFF
   }
 
   delay(delayValue); // Wait before next reading
