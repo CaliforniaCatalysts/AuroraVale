@@ -9,9 +9,8 @@ int M106_Input_Pin = A5;      // Controls Servo and LED
 int servoPin = 10;      // Servo control pin
 
 // Servo angles
-int A_ON = 60;
-int A_OFF = 0;
-
+int A_ON = 0;
+int A_OFF = 25;
 // Sensor values
 float M106_Input_Reading = 0;
 float M106_Input_Voltage = 0;
@@ -19,9 +18,9 @@ float M106_Input_Voltage = 0;
 int delayValue = 10;
 
 void setup() {
-  Serial.begin(9600);
+  //Serial.begin(9600);
   SprayHead.attach(servoPin);
-  SprayHead.write(A_ON); // Start in OFF position
+  SprayHead.write(A_OFF); // Start in OFF position
 }
 
 void loop() {
