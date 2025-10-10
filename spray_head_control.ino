@@ -3,8 +3,8 @@
 Servo SprayHead;
 
 // Servo angles
-int A_ON = 5;
-int A_OFF = 35;
+int A_ON = 15;
+int A_OFF = 39;
 
 // Analog input pin
 int M106_Input_Pin = A5;      // Controls Servo and LED
