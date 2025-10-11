@@ -2,9 +2,8 @@
 
 Servo SprayHead;
 
-// Servo angles
-int A_ON = 15;
-int A_OFF = 39;
+int A_ON = 44; //angle when spray is on. was 8 for stock mount
+int A_OFF = 20; //angle when spray is off. was 39 for stock mount
 
 // Analog input pin
 int M106_Input_Pin = A5;      // Controls Servo and LED
