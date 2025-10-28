@@ -1,8 +1,9 @@
 #include <Servo.h>
 Servo SprayHead;
-// Servo angles: CW=lower angle, CCW=higher angle
-const int Set_OFF = 120; //angle when spray is off.
+// Set the Servo angles: CW=lower angle, CCW=higher angle
 const int Set_ON = 155; //angle when spray is on.
+const int Set_OFF = 120; //angle when spray is off.
+//-------------------------------------------------------------------
 
 bool Enable_Pot_Influence = 0; //set to 1 to enable the external dial adjustment for the ON angle. Normally set to 0 to disable
 const int Pot_Max_Influence = 20;
