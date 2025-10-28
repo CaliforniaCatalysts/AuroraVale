@@ -11,7 +11,7 @@ const int Pot_Max_Influence = 20;
 int Previous_Influence_Angle = 0;
 int Current_Influence_Angle = 0;
 
-const int MAX_ON = 165; //max allowable angle for on position
+const int MAX_ON = 170; //max allowable angle for on position
 const int MIN_OFF = 90; //min allowable angle for off position
 
 int A_OFF = Set_OFF; //actual angle value sent to servo
