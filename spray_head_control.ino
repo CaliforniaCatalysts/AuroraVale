@@ -1,7 +1,7 @@
 #include <Servo.h>
 Servo SprayHead;
 // Set the Servo angles: CW=lower angle, CCW=higher angle
-const int Set_ON = 155; //angle when spray is on.
+const int Set_ON = 160; //angle when spray is on.
 const int Set_OFF = 120; //angle when spray is off.
 //-------------------------------------------------------------------
 
