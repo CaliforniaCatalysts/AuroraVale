@@ -1,0 +1,49 @@
+Nadia's and Nhi's Summer 2025 internship,,,,,,,,,,,,
+3D Printer Modified Air  Brush Spraying ,,,,,,,,,,,,
+Item Category,Description,Supplier,Part Number,Manufacturer,Model,Design Component,Qty Needed to Order,Unit Price,Comment,Order Status,ETA,Purchase Link
+Connections,Chemical-Resistant Plastic Tubing,Mcmaster,9388T11,,,,10 ft,$2.70,"1/8"" ID, 1/4"" OD,  FEP clear tubing",,,
+Connections,Dupont Connetor,,,,,1,1,$6.98 ,"40pin Male to Male, 40pin Female to Female Breadboard Jumper Ribbon Cables",,,https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78
+Control,Arduino ,Amazon,A000066,,Arduino Elegoo Uno R3,2,1,$13.99 ,"ATmega328P Microcontroller, USB-B, 7-12V input voltage",,,https://www.amazon.com/ELEGOO-Controller-ATmega328P-Compatible-Arduino/dp/B0B6VV7MS7
+Control,Relay,DigiKey,2066-46.61.9.024.0040-ND,"Finder Relays, Inc.",46.61.9.024.0040,,,$8.43 ,Relay Gen Purpose SPDT 16A 24 VDC,,,
+Control ,Sensor,,,,,,,,,,,
+Control ,Thermocouple,Mcmaster,,,,,,,Resistance Temperature Detector (RTD),,,
+Equipment,3D Printer,Amazon,,Creality,K1 SE,1,1,$259.61 ,"Dimention 355x355x482mm, open frame, open-source",Ordered,28-Jul,https://a.co/d/5Y77dD0
+Equipment,Camera for 3D printer,Amazon,,Creality,K1 AI,1,1,$25.23 ,,Ordered,28-Jul,https://a.co/d/2F8gHx9
+Equipment,Vacuum Table ,Clampus,MP2216M,Clampus,,1,0,$484.33 ,,In stock,,Vacuum Table MP2216M - 8.66 x 6.30 in. - ClampuSystems
+Equipment,Control Heater,,,,,1,1,,,Ordered,,
+Equipment,DC/DC converter,Amazon,,HiLetgo,LM2596 DC-DC,1,,$10.48 ,Adjustable DC/DC step down converter 4.0-40V to 1.25-37V,,,https://www.amazon.com/HiLetgo-Step-down-Converter-1-25-37V-Voltmeter/dp/B00LSEBYHU/ref=sr_1_8?
+Equipment ,Airbrush,Amazon,,,G233 Pro ,1,1,$39.99 ,"0.2, 0.3 & 0.5mm Needles, 1/3 oz Cup",,,https://www.amazon.com/Master-Airbrush-Multi-Purpose-Dual-Action-Professional/dp/B002KJDXHQ/ref=sr_1_11?crid=1EM7S72KVGITT&dib=eyJ2IjoiMSJ9.2QLjpxjHh6x2piGlmxumt4o0LijVaa7-s7iPsV_F9kJuKH0qOPLO2AURam1qtpIuXBEAQPv_3MvyyOGFsO-2W5Rqcw_gCb043Orj1g-eqcjifQrawy4z1f2czr0RvGfwwbXYf36N8NgpPwAXl7DQfN7RTuVpYjIe3rLPDZAM3GJhMa4mnwFDtttFBwQjS6H_kk6wkPQXT7DvpfZTgrIPuS2Gcx9pO0KoxEqmN6FRLqo.zNMSijro-1wZ8OOSEvJpNBKw_tvoE3Cwhy6j0aqikeA&dib_tag=se&keywords=airbrush&qid=1753301775&sprefix=airbrush%2Caps%2C176&sr=8-11&th=1
+Equipment ,Compressor,Amazon,,TIMBERTECH ,AS18-2,,1,$66.79 ,"120 VAC, 4 bar Auto Stop ",,,https://www.amazon.com/dp/B07VSFZVRH/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B07VSFZVRH&pd_rd_w=G8ykI&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=B1J9JD987K1VPBPXC002&pd_rd_wg=x9O8F&pd_rd_r=0a049474-da14-4ba9-88d9-0b4ec2ccc91f&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
+Equipment ,DC Servo Motor,DigiKey,1738-SER0064-ND,DFRobot,SER0064,2,,$21.90 ,Positional Rotation DC Motor Gearmotor 52 RPM 5 ~ 8.4VDC,Ordered,,https://www.digikey.com/en/products/detail/dfrobot/SER0064/23028651
+Miscellaneous,LED light stip,Amazon,,,,1,16.4 ft,$19.99,"Uniform Light 9W, 480LED/m, Cool White, IP65 (water resistance), 24 VDC",,,https://www.amazon.com/gp/product/B08VWXPQYP/ref=ox_sc_act_title_4?smid=A35UAT07QG3EC6&th=1
+,,,,,,,,,,,,
+,,,,,,,,$960.42 ,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
